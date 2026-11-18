@@ -1,0 +1,11 @@
+{
+  "name": "barangay-report-system-netlify",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/create-netlify-config.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}

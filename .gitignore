@@ -1,0 +1,8 @@
+/var/sessions/*
+!/var/sessions/.gitkeep
+/uploads/*
+!/uploads/.htaccess
+!/uploads/index.html
+/node_modules/
+/netlify-site/runtime-config.js
+/tmp/
